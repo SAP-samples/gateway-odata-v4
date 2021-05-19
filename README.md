@@ -3,9 +3,11 @@
 ## Description
 *gateway-odata-v4* is a collection of sample code to show how OData V4 based services can be build using the SAP Gateway OData V4 framework.  
 
+You find more information about this implementation in the following blog post [OData V4 code based implementation – Overview](https://blogs.sap.com/2017/12/12/odata-v4-code-based-implementation-overview/)
+
 > **Caution:**  
 > Please note that in the latest release of SAP S/4HANA 2020 FSP1 you can build OData V4 services using the ABAP RESTful > Programming Model which is the recommended development approach in SAP S/4HANA.  
-> As discussed in the blog post OData service development options https://blogs.sap.com/2017/12/12/odata-service-development-options/ the implementation of an OData V4 service using code based implementation leveraging the SAP Gateway OData V4 framework is a valid approach if your need for an OData V4 service cannot wait but you are on a release prior to SAP S/4HANA 2020 FSP1.
+> As discussed in the blog post [OData service development options](https://blogs.sap.com/2017/12/12/odata-service-development-options/) the implementation of an OData V4 service using code based implementation leveraging the SAP Gateway OData V4 framework is a valid approach if your need for an OData V4 service cannot wait but you are on a release prior to SAP S/4HANA 2020 FSP1.
 
 ## Requirements
 
