@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCM_E2E001ODATAV4_SO</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message class for demo odata v4 service</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_E2E001ODATAV4_SO</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Not implemented</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_E2E001ODATAV4_SO</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>Entity &apos;&amp;1&apos; not found in entiy set &apos;&amp;2&apos;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCM_E2E001ODATAV4_SO</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>filter, top or navigation must be used to access entity set &apos;&amp;1&apos;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
