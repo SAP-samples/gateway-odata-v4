@@ -14,7 +14,10 @@ You find more information about this implementation in the following blog posts:
 
 ## Requirements
 
-This code is intended to run on the latest SP of SAP NetWeaver 7.52 or SAP S/4HANA Foundation 1809 or later.
+This code is intended to run on:  
+
+- the latest SP of SAP NetWeaver 7.52 or 
+- SAP S/4HANA Foundation 1809 or later.
 
 ## Download and Installation
 
