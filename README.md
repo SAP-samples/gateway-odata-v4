@@ -16,8 +16,8 @@ You find more information about this implementation in the following blog posts:
 
 This code is intended to run on:  
 
-- the latest SP of SAP NetWeaver 7.52 or 
-- SAP S/4HANA Foundation 1809 or later.
+- SAP NetWeaver 7.52 SP05 or higher 
+- SAP S/4HANA Foundation 1809 SP03 or later.
 
 Though a first implementation of the OData V4 SAP Gateway framework is available as of SAP NetWeaver 750 SP04 this SAP NetWeaver ABAP stack and also the SAP NetWeaver 751 do not receive any downports. If you nevertheless try to install this package on SAP NetWeaver 750 or 751 you may find that certain features are not yet supported.  
 
