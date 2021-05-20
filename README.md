@@ -19,7 +19,7 @@ This code is intended to run on:
 - SAP NetWeaver 7.52 SP05 or higher 
 - SAP S/4HANA Foundation 1809 SP03 or later.
 
-Though a first implementation of the OData V4 SAP Gateway framework is available as of SAP NetWeaver 750 SP04 this SAP NetWeaver ABAP stack and also the SAP NetWeaver 751 do not receive any downports. If you nevertheless try to install this package on SAP NetWeaver 750 or 751 you may find that certain features are not yet supported.  
+Though a first implementation of the OData V4 SAP Gateway framework is available as of SAP NetWeaver 750 SP04 this SAP NetWeaver ABAP stack and also the SAP NetWeaver 751 do not receive any downports. If you nevertheless try to install this package on SAP NetWeaver 750 or 751 you may find that certain features (for example deep insert) are not supported.  
 
 For an overview of the SAP Gateway Foundation Support Package Stack Definition see [SAP Note 2512479](https://launchpad.support.sap.com/#/notes/2512479).  
 
@@ -29,7 +29,9 @@ You can download this code and import it into an on premises system using ABAPGI
 
 ## Known Issues
 
-There are no known issues.
+There are no known issues with this code.
+
+For known constraints of the OData V4 protocol support in SAP Gateway (SAP_GWFND) see [SAP Note 2322624](https://launchpad.support.sap.com/#/notes/2322624).
 
 ## How to obtain support
 
