@@ -1,4 +1,4 @@
-# SAP Gateway OData V4 code based implementation
+# SAP Gateway Foundation - OData V4 code based implementation samples
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/gateway-odata-v4)](https://api.reuse.software/info/github.com/SAP-samples/gateway-odata-v4)
 ## Description
 *gateway-odata-v4* is a collection of sample code to show how OData V4 based services can be build using the SAP Gateway OData V4 framework.  
